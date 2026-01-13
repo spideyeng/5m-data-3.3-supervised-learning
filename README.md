@@ -18,11 +18,11 @@ Refer to the following markdown file for the respective sections of the class:
 
 By the end of this lesson, you will be able to:
 
-* Apply appropriate preprocessing techniques to numerical and categorical features to prepare raw data for machine learning algorithms.
+* Apply appropriate **preprocessing techniques** to numerical and categorical features to prepare raw data for machine learning algorithms.
 
-* Evaluate the predictive performance of classification and regression models by interpreting key metrics and analyzing the bias-variance tradeoff.
+* Evaluate the **predictive performance** of classification and regression models by interpreting key metrics and analyzing the bias-variance tradeoff.
 
-* Construct a complete end-to-end supervised learning pipeline that integrates data preparation, model training, and validation.
+* Construct a complete **end-to-end supervised learning pipeline** that integrates data preparation, model training, and validation.
 
 ## Lesson Plan
 
